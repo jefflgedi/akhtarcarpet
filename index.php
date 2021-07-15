@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>cobain</title>
+<title>Hello World</title>
 </head>
 
 <body>
-<h1> HELLO WORLD X!! Git Gui ra iso awas!!</h1>
+<h1> HELLO WORLD, akhire pecah telur</h1>
 </body>
 </html>
