@@ -2,12 +2,19 @@
 <html>
 <head>
 <title>AKHTARCARPET</title>
+<style>
+body {
+  background: url(https://www.bigredcc.com/wp-content/uploads/carpet-cleaning-singapore-by-big-red-carpet-cleaners.jpg);
+  background-repeat: no-repeat;
+}
+</style>
 </head>
-
 <body>
-<h1><u>Akhtarcarpet</u></h1>
+
+<div>
+  <h2>AKHTARCARPET</h2>
+</div>
 <br>
-<img src="https://completecarpetco.com.au/wp-content/uploads/Pros-and-cons-of-buying-carpet-remnants.jpg" alt="">
 <br>
 <p>
 Akhtarcarpet adalah sebuah merkdagang yang berasal dari singapore. Akhtarcarpet sendiri bergerak dalam bidang penjualan karpet serta servis karpet.
