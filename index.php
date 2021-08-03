@@ -3,9 +3,9 @@
 <head>
 
 
-
 <title>AKHTARCARPET</title>
 <style>
+  <script src="script1.js"></script> 
 body {
   background: url(https://www.bigredcc.com/wp-content/uploads/carpet-cleaning-singapore-by-big-red-carpet-cleaners.jpg);
   background-repeat: no-repeat;
