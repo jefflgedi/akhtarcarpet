@@ -89,7 +89,7 @@ var maiScroll = {"logoWidth":"300","logoTop":"20","logoBottom":"20","logoShrinkW
 
 <!-- ----------------------- pemetaan website dimulai dari bawah sini --------------------------------- -->
 
-<!-- header putih dibawah header merah baris ke dua -->
+<!-- homepage -->
 
             
 
